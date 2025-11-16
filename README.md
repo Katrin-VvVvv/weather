@@ -7,3 +7,6 @@
 - `BeautifulSoup4` — парсинг HTML.
 - `pandas` — обработка и анализ данных.
 - `time`, `datetime` — вспомогательные модули.
+
+## Перед запуском нужно прописать команду:
+pip install -r requirements.txt
